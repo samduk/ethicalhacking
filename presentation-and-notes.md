@@ -46,13 +46,13 @@ Difference Phases
 	
 
 
-## Workshop Benefits:
+## Presentation Benefits:
 
-1.  **Practical Hands-on Experience:** Participants will gain practical experience using open source tools, which are widely available and cost-effective for penetration testing purposes.
-2.  **Enhanced Skills**: Participants will develop the necessary skills to identify vulnerabilities, exploit them, and provide comprehensive recommendations for enhancing security.
-3.  **Cost Savings**: By utilizing open source tools, organizations can save significant costs associated with commercial penetration testing tools and licenses.
-4.  **Customization**: The workshop can be tailored to address specific organizational needs and challenges, ensuring maximum relevance and value for participants.
-5.  **Networking Opportunities**: The workshop will provide participants with networking opportunities, allowing them to connect with other like-minded enthusiast in the field and exchange knowledge and experiences.
+1.  ~~**Practical Hands-on Experience:** Participants will gain practical experience using open source tools, which are widely available and cost-effective for penetration testing purposes.~~
+2.  ~~**Enhanced Skills**: Participants will develop the necessary skills to identify vulnerabilities, exploit them, and provide comprehensive recommendations for enhancing security.~~
+3.  ~~**Cost Savings**: By utilizing open source tools, organizations can save significant costs associated with commercial penetration testing tools and licenses.~~
+4.  ~~**Customization**: The workshop can be tailored to address specific organizational needs and challenges, ensuring maximum relevance and value for participants.~~
+5.  ~~**Networking Opportunities**: The workshop will provide participants with networking opportunities, allowing them to connect with other like-minded enthusiast in the field and exchange knowledge and experiences.~~
 
 
 ## Participants:
