@@ -57,7 +57,7 @@ Difference Phases
 
 ## Participants:
 
-- ~~Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)
+- ~~Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)~~
 - Install Kali Linux (https://kali.org)
 - Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
 - Your computer must require 8GB of RAM or above 
