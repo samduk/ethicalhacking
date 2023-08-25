@@ -57,13 +57,13 @@ Difference Phases
 
 ## Participants:
 
-- Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)
+- ~~Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)
 - Install Kali Linux (https://kali.org)
 - Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
 - Your computer must require 8GB of RAM or above 
 - Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/ 
 - Minimum 50 GB Hard Disk Space available to use 
-- **Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine
+- **Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine~~
 
 
 
