@@ -69,7 +69,7 @@ Difference Phases
 
 ~~The aforementioned setup needs to be completed before the presentation provided the participant wants to try it themselves, and the trainer will assist the participants by either sharing video tutorials to help participants prepare their laptops through a Zoom meeting to address any setup-related concerns and ensure everything is in order.~~
 
-## Expected Outcomes from the Workshop 
+## Expected Outcomes from the Presentation 
 
 1. **Enhanced Understanding of Security Vulnerabilities:** Participants will gain a deeper understanding of security vulnerabilities and potential threats that computer systems, networks, and applications can face. They will learn how to identify and exploit these vulnerabilities to better protect against potential attacks.
 
