@@ -54,32 +54,20 @@ Difference Phases
 4.  **Customization**: The workshop can be tailored to address specific organizational needs and challenges, ensuring maximum relevance and value for participants.
 5.  **Networking Opportunities**: The workshop will provide participants with networking opportunities, allowing them to connect with other like-minded enthusiast in the field and exchange knowledge and experiences.
 
-## Workshop Fees and Logistics:
 
-The workshop itself, including the training materials and instructor fees, will be provided free of charge. However, I kindly request the assistance of the Rokpa Team in arranging the venue, necessary equipment such as a projector, and reliable internet access (as internet connectivity is essential). It is possible that these arrangements may incur fees, which can be borne by the participants.
-
-## Workshop Participants:
+## Participants:
 
 - Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)
 - Install Kali Linux (https://kali.org)
+- Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
 - Your computer must require 8GB of RAM or above 
+- Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/ 
 - Minimum 50 GB Hard Disk Space available to use 
 - **Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine
 
-Note: If you want to try it out, you can download the resources from the following links
-<br />
-Download Virtualbox: https://virtualbox.org
-- Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
-<br />
-Download Kali Linux: https://www.kali.org
-<br />
 
-Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/ 
-<br />
 
-~~
-The aforementioned setup needs to be completed before the presentation provided the participant wants to try it themselves, and the trainer will assist the participants by either sharing video tutorials to help participants prepare their laptops through a Zoom meeting to address any setup-related concerns and ensure everything is in order.
-~~
+~~The aforementioned setup needs to be completed before the presentation provided the participant wants to try it themselves, and the trainer will assist the participants by either sharing video tutorials to help participants prepare their laptops through a Zoom meeting to address any setup-related concerns and ensure everything is in order.~~
 
 ## Expected Outcomes from the Workshop 
 
