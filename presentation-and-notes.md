@@ -1,21 +1,31 @@
 ## Presentation Details:
 
 **Title**: Ethical Hacking Using Open Source Tools
+<br />
 **Duration**:  (**90 minutes**)
+<br />
 **Date**:  **August 26, 2PM**
+<br />
 **Location**: On discord 
-**Participants**: 
+<br />
+**Participants**: Students or Young Profesisonals residing in North America
+<br />
 **Target Audience:** Cybersecurity Enthusiasts.
+<br />
 **No prior knowledge is required to attend this session***
-
+<br />
 ## Presentation Objectives:
 
 **1.  Connect with young Tibetan cybersecurity enthusiasts.**
+<br />
 2.  Familiarize participants with the different phases of a penetration testing engagement.
+<br />
 3.  Provide an overview of popular open source tools used in penetration testing, such as  Nmap, gobuster, dirsearch, linpeas, BurpSuite, and more.
+<br />
 **4.  Demonstrate the practical implementation of these tools through hands-on exercises and real-world scenarios.**
+<br />
 **5. Encouraging to participate in CTF competitions**
-
+<br />
 ## Presentation Overview:
 
 
@@ -30,7 +40,10 @@ Difference Phases
 
 
 ## Demo 
-
+- Few of my favourite tools 
+	- joplin
+	- greenshot or flameshot or anything :) 
+	
 
 
 ## Workshop Benefits:
@@ -53,8 +66,20 @@ The workshop itself, including the training materials and instructor fees, will 
 - Minimum 50 GB Hard Disk Space available to use 
 - **Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine
 
-Note: The aforementioned setup needs to be completed before the workshop, and the trainer will assist by either sharing video tutorials to help participants prepare their laptops or arranging a Zoom meeting to address any setup-related concerns and ensure everything is in order.
+Note: If you want to try it out, you can download the resources from the following links
+<br />
+Download Virtualbox: https://virtualbox.org
+- Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
+<br />
+Download Kali Linux: https://www.kali.org
+<br />
 
+Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/ 
+<br />
+
+~~
+The aforementioned setup needs to be completed before the presentation provided the participant wants to try it themselves, and the trainer will assist the participants by either sharing video tutorials to help participants prepare their laptops through a Zoom meeting to address any setup-related concerns and ensure everything is in order.
+~~
 
 ## Expected Outcomes from the Workshop 
 
@@ -66,7 +91,17 @@ Note: The aforementioned setup needs to be completed before the workshop, and th
 
 
 ## Conclusion:
+- https://overthewire.org/wargames/bandit/
+- https://cmdchallenge.com/
 
+- https://tryhackme.com 
+- https://hackthebox.com/
+- https://www.offsec.com/courses/pen-200/
+- https://www.blackhat.com/us-23/certified-pentester.html
+- https://www.blackhat.com/eu-23/certified-pentester.html?elq_mid=2972&elq_cid=104599&_mc=em_bheu_bheu_x_tsmatt_LEAD_2023_EM3#syllabus
+
+- https://realworldctf.com/
+- https://ctfd.io/ - you can design and host your own ctf game
 
 
 ## Disclaimer:
@@ -96,9 +131,6 @@ Note: The aforementioned setup needs to be completed before the workshop, and th
 
 **What really helped me ?**
 - https://owasp.org/www-project-modsecurity-core-rule-set/
-
-
-https://www.blackhat.com/eu-23/certified-pentester.html?elq_mid=2972&elq_cid=104599&_mc=em_bheu_bheu_x_tsmatt_LEAD_2023_EM3#syllabus
 
 
 
