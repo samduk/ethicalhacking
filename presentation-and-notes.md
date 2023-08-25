@@ -58,12 +58,12 @@ Difference Phases
 ## Participants:
 
 - ~~Need to install virtualbox and virtualbox extension in their laptop (https://virtualbox.org)~~
-- Install Kali Linux (https://kali.org)
-- Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)
-- Your computer must require 8GB of RAM or above 
-- Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/ 
-- Minimum 50 GB Hard Disk Space available to use 
-- **Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine~~
+- ~~Install Kali Linux (https://kali.org)~~
+- ~~Don't forget to download Virtualbox Extension and install it. (Else you won't be able to harness many resources like network etc)~~
+- ~~Your computer must require 8GB of RAM or above~~
+- ~~Download Mr. Robot vm: https://www.vulnhub.com/entry/mr-robot-1,151/~~ 
+- ~~Minimum 50 GB Hard Disk Space available to use~~ 
+- ~~**Mac M1 chip doesn't support the virtualization**, therefore, kindly find an alternate machine~~
 
 
 
@@ -73,9 +73,11 @@ Difference Phases
 
 1. **Enhanced Understanding of Security Vulnerabilities:** Participants will gain a deeper understanding of security vulnerabilities and potential threats that computer systems, networks, and applications can face. They will learn how to identify and exploit these vulnerabilities to better protect against potential attacks.
 
-2. **Proficiency in Ethical Hacking Techniques:** The workshop will equip participants with practical skills and knowledge in ethical hacking techniques. They will learn how to conduct penetration tests using open source tools, enabling them to assess the security of systems and networks and identify potential weaknesses that need to be addressed.
+2. ~~**Proficiency in Ethical Hacking Techniques:** The workshop will equip participants with practical skills and knowledge in ethical hacking techniques. They will learn how to conduct penetration tests using open source tools, enabling them to assess the security of systems and networks and identify potential weaknesses that need to be addressed.~~
 
 3. **Improved Security Awareness and Risk Mitigation:** By participating in the workshop, individuals will develop a heightened awareness of the importance of cybersecurity and the potential risks associated with inadequate protection. They will learn how to mitigate those risks and adopt proactive measures to safeguard computer systems, networks, and applications, thereby enhancing overall security posture.
+
+4. CTF game
 
 
 ## Conclusion:
